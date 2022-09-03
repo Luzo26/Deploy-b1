@@ -40,7 +40,7 @@ const Services = () => {
         <ServicesCard >
           <ServicesIcon src={Icon5}/>
           <ServicesH2>Clases Nocturnas</ServicesH2>
-          <ServicesP>Para quienes no tienen tiempo durante el dia pero lo dan todo. Horario de 21:30 a 23:00.</ServicesP>
+          <ServicesP>Para quienes no tienen tiempo durante el día pero lo dan todo. Horario de 21:30 a 23:00.</ServicesP>
           <ServicesPrice>69€/mes</ServicesPrice>
         </ServicesCard>
         <ServicesCard >

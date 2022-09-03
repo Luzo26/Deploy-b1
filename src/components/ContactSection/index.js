@@ -37,7 +37,7 @@ const ContactSection = () => {
         <input type="text" name="user_name" />
         <label>Email:</label>
         <input type="email" name="user_email" />
-        <label>Consulta o Clases/Curso al que se quiere apuntar:</label>
+        <label>Consulte o Inscríbase a las Clases o Curso al que se quiere apuntar:</label>
         <textarea name="message" />
         <input type="submit" value="Enviar" />
       </form>
